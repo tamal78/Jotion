@@ -1,11 +1,10 @@
 # Jotion
 
-<p> A full-stack Productivity and Note-Taking Web Application built using Next.js.</p>
+<p> A full-stack Productivity and Note-Taking Web Application.</p>
 
 
 ## Preview of live site
 ![Screenshot (140)](https://github.com/sougata-github/Jotion/assets/102734212/b83a0559-33c2-40c3-8d83-50a29cdf9b7f)
-![Screenshot (141)](https://github.com/sougata-github/Jotion/assets/102734212/03aa9922-7e1f-447b-a204-72c86d6f880b)
 
 
 ## Key Features
